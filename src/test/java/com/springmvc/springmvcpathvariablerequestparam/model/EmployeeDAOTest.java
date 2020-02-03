@@ -1,0 +1,14 @@
+package com.springmvc.springmvcpathvariablerequestparam.model;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class EmployeeDAOTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
